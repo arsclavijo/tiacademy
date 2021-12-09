@@ -1,0 +1,2 @@
+1- A tag semântica de contâiner para o <p> será a tag <article>.
+2- Não podemos substituir a tag<p> pela tag <div>, pois quebrará a semântica.

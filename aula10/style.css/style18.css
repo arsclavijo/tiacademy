@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    width: 100%;
+    height: 100%;
+    background-color: darkcyan;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: darkgoldenrod;
+}
+div#segundaDiv{
+    position: fixed;
+    top:0;
+    right: 0;
+}
+
+div#terceiraDiv{
+    position: fixed;
+    bottom: 0;
+    
+}
+
+div#quartaDiv{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}

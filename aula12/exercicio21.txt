@@ -1,0 +1,5 @@
+1- Podemos ter o arquivo CSS na mesma pasta que os arquivos HTML, porém
+por uma questão de organização é melhor colocá-lose em uma pasta só de
+arquivos CSS.
+
+2- Nem todos os elementos HTML terão elementos filho, apenas alguns.

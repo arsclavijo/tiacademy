@@ -1,0 +1,6 @@
+1- No CSS um elemento filho pode ser referenciado por um espaço.
+Sim, podemos colocar da seguinte forma: #pai #filho, ou com o sinal de maior entre eles.
+2-A propriedade CSS background-size apenas renderiza o arquivo para
+visaulização sem alterar o tamanho do arquivo original.
+
+3-A tag responsável por criar os  títulos é ata h1, h2, h3.., h6.

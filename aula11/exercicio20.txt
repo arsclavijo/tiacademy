@@ -1,0 +1,8 @@
+1- A propriedade de CSS que permite aplicar o degradê é a background: radial-gradient
+e linear-gradient.
+
+2- Por padrão não é recomendado que a aplicação do CSS seja feita inline, mas
+em arquivo separado.
+
+3-A unidade em percentual será proporcional ao viewport, enquanto que a 
+unidade de medida pixel será fixa.

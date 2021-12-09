@@ -1,0 +1,5 @@
+1- Definição da tag <body>.
+
+2-Todos os elementos HTML possuem definição de margin e padding?
+
+3-Uma tag <figure> pdoe ter várias tags <figurecaption>?

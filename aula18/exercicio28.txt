@@ -1,0 +1,4 @@
+1- Como é possível descbrir a fonte padrão do navegador?
+
+2- Não é verdade que quando alteramos o CSS diretamento no DEV TOOL mudamos o
+arquivo CSS. Apenas o alteramos naquele momento no navegador.

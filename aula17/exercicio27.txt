@@ -1,0 +1,11 @@
+1- Defina URL.
+Uniform Resource Locator (URL), o endereço web, é a referência a uma localização web
+que especifica a localização de um arquivo em uma rede de computadores.
+
+2- O que é HTTP?
+São os protocolos de comunicação usados para conectar servidores Web ou de uma 
+rede local ao navegador.
+
+3- O que são os vendors?
+São prefixos que os fabricantes dos navegadores adicionam para implementar
+propriedades CSS experimentais.
